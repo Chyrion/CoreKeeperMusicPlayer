@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Run the script from your terminal with
 
 ```
-py sheetmusic_bpm.py
+py cksheetmusic.py
 ```
 
 This will print out instructions for selecting songs.

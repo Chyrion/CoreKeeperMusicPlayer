@@ -87,7 +87,6 @@ class SheetMusicPlayer:
             time.sleep(0.005)
 
     def press_and_hold(self, k: tuple[str, float]):
-        print(k)
         kb.press(k[0])
         time.sleep(k[1])
         kb.release(k[0])

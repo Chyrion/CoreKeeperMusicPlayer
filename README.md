@@ -7,7 +7,7 @@ Python-based script that allows for custom music to be played with the instrumen
 - Syntax for musical notation by text
 - Automatic note length calculation by tempo (BPM)
 - Separate files for storing songs
-- Playing multiple song texts at the same time via multithreading (but this is really not great, can't recommend it, but it's there)
+- Playing multiple song texts at the same time via multithreading (though it sounds questionable at best...)
 
 ## Why?
 
